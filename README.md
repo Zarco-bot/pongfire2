@@ -19,7 +19,27 @@ characteristics:
 
 #do not change the comments (adds fot next version)
 
-#Power de la V1.1 (Cada que tenga 5 puntos puede mover al jugador y se le cobrara 5 puntos del score)
+#Power de la V1.1 (Cada que tenga 5 puntos puede mover al jugador contrario pero se le cobrara 5 puntos del score)
 
 #Version juego infinito.
+
+Controles:
+
+Player 1:
+
+W - UP
+
+S- DOWN
+
+Space - Power
+
+Player 2:
+
+Up arrow- UP
+
+Down arrow- DOWN
+
+Left arrow- Power
+
+
 
